@@ -13,12 +13,11 @@ Check out my [Portfolio](https://marrtinerz.github.io/ML-DS-Portfolio/) for all 
 - 🤔 I’m looking for help with finding a job or internship placement.
 - ⚡ Fun fact: I sing classical/opera music professional.
 
-<a href="https://github.com/archd3sai/archd3sai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archd3sai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/marrtinerz/marrtinerz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrtinerz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
--->
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=archd3sai&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arch's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=marrtinerz&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martins's GitHub Stats" />
 </a>
