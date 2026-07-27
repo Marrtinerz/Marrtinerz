@@ -1,4 +1,4 @@
-# Hi there, I'm Martins Nnamchi 👋</h1>
+# Hi there, I'm Martins Nnamchi 👋
 
 **Full-Stack Software Engineer | System Architecture | AI Integration**
 
@@ -9,7 +9,7 @@
 
 ---
 
-Welcome to my Github Profile!
+Welcome to my GitHub Profile!
 
 ### 👨‍💻 About Me
 I am a **product-minded software engineer** and an MS candidate in Electrical & Computer Engineering at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing and deploying scalable web applications. I thrive on solving complex backend problems—like high-concurrency database design and state management—while delivering hyper-performant frontends.
