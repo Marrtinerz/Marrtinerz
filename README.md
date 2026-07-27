@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | System Architecture | AI Integration**
 
-Welcome to my Github Profile! 👋
+Welcome to my Github Profile!
 
 I am a product-minded engineer and MS in Electrical & Computer Engineering candidate at CU Boulder. I specialize in designing, building, and deploying scalable web applications with a focus on high-concurrency database design, complex state management, and modern frontends.
 
