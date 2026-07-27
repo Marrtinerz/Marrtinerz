@@ -15,7 +15,7 @@ Welcome to my Github Profile!
 I am a **product-minded software engineer** and an MS candidate in Electrical & Computer Engineering at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing and deploying scalable web applications. I thrive on solving complex backend problems—like high-concurrency database design and state management—while delivering hyper-performant frontends.
 
 - 🎓 **Currently:** Pursuing an MS in Electrical & Computer Engineering at CU Boulder (Focus: Data Structures & Algorithms, Semiconductor Physics).
-- 💡 **Building:** <a href="https://www.mysheltertree.com/" target="_blank" rel="noopener noreferrer">ShelterTree</a>, a pan-African property intelligence platform.
+- 💡 **Building:** [ShelterTree](https://mysheltertree.com), a pan-African property intelligence platform.
 - 🤝 **Looking for:** Mid-Level / Full-Stack Engineering roles where I can tackle complex architectural challenges.
 
 ---
