@@ -1,12 +1,11 @@
-<h1 align="left">Hi there, I'm Martins Nnamchi 👋</h1>
-<h3 align="left">Software Engineer | System Architecture | AI Integration</h3>
+# Hi there, I'm Martins Nnamchi 👋</h1>
 
-<p align="left">
-  <a href="https://marrtinerz.github.io"><img src="https://img.shields.io/badge/Portfolio_Website-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mnnamchi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mnnamchi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="mailto:martins.nnamchi@colorado.edu"><img src="https://img.shields.io/badge/Edu_Email-000000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Edu Email"/></a>
-</p>
+**Full-Stack Software Engineer | System Architecture | AI Integration**
+
+🌍 **[Visit My Full Portfolio Website](https://marrtinerz.github.io)**
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/mnnamchi/)**
+✉️ **[Reach out via Edu mail](mailto:martins.nnamchi@colorado.edu)**
+✉️ **[Reach out via Edu mail](mailto:mnnamchi@gmail.com)**
 
 ---
 
