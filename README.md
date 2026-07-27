@@ -48,3 +48,9 @@ I am a **product-minded software engineer** and an MS candidate in Electrical & 
 ### 🚀 Featured Architecture
 *   **[ShelterTree](https://mysheltertree.com):** Engineered a hybrid PostgreSQL search engine utilizing `SearchVector` and `SearchRank`, alongside a complex "Lazy Registration" funnel built on Django and HTMX.
 *   **HitchARide:** Architected a cost-sharing carpool MVP utilizing database-level locking (`select_for_update()`) to prevent race conditions during concurrent seat bookings.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marrtinerz&layout=compact&theme=vision-friendly-dark" />
+</p>
