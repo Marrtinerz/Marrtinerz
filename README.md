@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Martins Nnamchi 👋</h1>
-<h3 align="center">Software Engineer | System Architecture | AI Integration</h3>
+<h1 align="left">Hi there, I'm Martins Nnamchi 👋</h1>
+<h3 align="left">Software Engineer | System Architecture | AI Integration</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://marrtinerz.github.io"><img src="https://img.shields.io/badge/Portfolio_Website-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mnnamchi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mnnamchi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
