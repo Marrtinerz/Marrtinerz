@@ -5,7 +5,7 @@
 🌍 **[Visit My Full Portfolio Website](https://marrtinerz.github.io)**
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/mnnamchi/)**
 ✉️ **[Reach out via Edu mail](mailto:martins.nnamchi@colorado.edu)**
-✉️ **[Reach out via Edu mail](mailto:mnnamchi@gmail.com)**
+✉️ **[Reach out via Gmail](mailto:mnnamchi@gmail.com)**
 
 ---
 
