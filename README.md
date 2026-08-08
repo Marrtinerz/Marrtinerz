@@ -1,6 +1,6 @@
 # Hi there, I'm Martins Nnamchi 👋
 
-**Full-Stack Software Engineer | System Architecture | AI Integration**
+**Full-Stack ML & Software Engineer | System Architecture | AI Integration**
 
 🌍 **[Visit My Full Portfolio Website](https://marrtinerz.github.io)**
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/mnnamchi/)**
